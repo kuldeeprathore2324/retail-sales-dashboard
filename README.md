@@ -86,4 +86,4 @@ Power BI (Power Query, Data Modeling, DAX) · Excel (data pre-processing) · Kag
 - `screenshots/` — dashboard preview
 
 ---
-**Author:** Anoop Chaudhary — [LinkedIn](https://www.linkedin.com/in/anoop-ch168)
+**Author:** Kuldeep Rathore — [LinkedIn](https://www.linkedin.com/in/kuldeep-rathore-161030301/)
